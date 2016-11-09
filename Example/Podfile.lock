@@ -1,0 +1,16 @@
+PODS:
+  - BZTestLib (0.1.0)
+
+DEPENDENCIES:
+  - BZTestLib (from `../`)
+
+EXTERNAL SOURCES:
+  BZTestLib:
+    :path: ../
+
+SPEC CHECKSUMS:
+  BZTestLib: c8974cb36a7990403a6f1b43188504aac8ade024
+
+PODFILE CHECKSUM: 88f140c3f361559eda65bfbb766a716571a51993
+
+COCOAPODS: 1.1.0.rc.2
