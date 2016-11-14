@@ -1,0 +1,6 @@
+framework module BZTestLib {
+  umbrella header "BZTestLib-umbrella.h"
+
+  export *
+  module * { export * }
+}
