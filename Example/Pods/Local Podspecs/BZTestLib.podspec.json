@@ -1,9 +1,9 @@
 {
   "name": "BZTestLib",
-  "version": "0.1.0",
-  "summary": "A short description of BZTestLib.",
+  "version": "0.1.1",
+  "summary": "NSString Category",
   "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/<GITHUB_USERNAME>/BZTestLib",
+  "homepage": "https://github.com/xuming90/BZTestLib",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,11 +12,12 @@
     "xuming90": "xuming090204@126.com"
   },
   "source": {
-    "git": "https://github.com/<GITHUB_USERNAME>/BZTestLib.git",
-    "tag": "0.1.0"
+    "git": "https://github.com/xuming90/BZTestLib.git",
+    "tag": "0.1.1"
   },
   "platforms": {
     "ios": "8.0"
   },
-  "source_files": "BZTestLib/Classes/**/*"
+  "source_files": "BZTestLib/Classes/NSString+Extension.h",
+  "frameworks": "UIKit"
 }

@@ -31,7 +31,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
- s.source_files = 'BZTestLib/Classes/NSString+Extension.h'
+ s.source_files = 'BZTestLib/NSString+Extension.h'
   # s.resource_bundles = {
   #   'BZTestLib' => ['BZTestLib/Assets/*.png']
   # }

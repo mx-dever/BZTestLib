@@ -4,11 +4,6 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>BZTestLib.xcscheme</key>
-		<dict>
-			<key>isShown</key>
-			<false/>
-		</dict>
 		<key>Pods-BZTestLib_Example.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -27,12 +22,7 @@
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>57C7A09B9BF728E29122BBB9559413E7</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>5D37BA5049DC8BAE1CA478F5C7945737</key>
+		<key>99D3A4A5B1ED2FD8C652D583BCB7A759</key>
 		<dict>
 			<key>primary</key>
 			<true/>
